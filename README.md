@@ -9,7 +9,6 @@ I have designed this app to not collect any personally identifiable information.
 
 If you find any security vulnerability that has been inadvertently caused by me, or have any question regarding how the app protects your privacy, please send me an email and I will surely try to fix it/help you.
 
-Yours sincerely,
-Arham Jamal (iceandfire)
-Delhi, India.
-icendfire@gmail.com
+Yours sincerely,  
+Arham Jamal (iceandfire)  
+Delhi, India  
